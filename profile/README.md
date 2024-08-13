@@ -1,2 +1,2 @@
-![BANNER](https://github.com/adego-project/.github/blob/main/profile/Banner.png)
+![BANNER](https://github.com/seogaemo/.github/blob/main/profile/Thumbnail.jpg?raw=true))
 ### 만나서 반가워요 👋
